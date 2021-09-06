@@ -2,4 +2,4 @@
 
 Had some trouble with the repository but I think I resolved it.<br/>
 This has be coded in HTML<br/>
-Lookinf forward for the next practice
+Looking forward for the next practice
